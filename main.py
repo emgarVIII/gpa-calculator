@@ -59,8 +59,6 @@ def grade_point_interpreter():
 def gather_info():
     data = [ch_in_bounds(), grade_point_interpreter()]
     qp = data[0] * data[1]
-    print(data)
-    print(qp)
     while True:
         decision = input("Would you like to add another class? Type any key for yes. N for no.")
         # if n then no, and we will stop adding classes and calculate
@@ -75,8 +73,6 @@ def gather_info():
         data[0] += ch_temp  # credit hour total
         data[1] += gp_temp  # actual grade points earned
         qp += ch_temp * gp_temp
-        print(qp)
-        print(data)
 
 
 gather_info()
