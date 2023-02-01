@@ -81,8 +81,4 @@ def gather_info():
 
 gather_info()
 
-# def get_letter_grade(grade):
-#     # if grade given is an integer then
-#     if isinstance(grade, int):
-#         # if the int grade is NOT in bounds 1-100
-#        # if not 0 <= grade and grade <= 100:
+
