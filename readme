@@ -1,6 +1,9 @@
 One day, I got really bored and was thinking about my grades. I decided to make this program which offers a GPA calculator with some useful
-hints to help the user and allows you to implement different classes. I ended up liking it quite a lot; although simple, it is quite resourceful.
-Python program that calculates your GPA. It takes in the amount of credit hours you have taken and the scores you have received in those classes. 
+hints to help the user and allows you to implement different classes. 
 
-I have seen many people not know how to calculate their GPA and this is a perfect solution. 
-This was designed with UT grading system in mind, should work with other colleges as well.
+I ended up liking it quite a lot; although simple, it is quite resourceful and insightful. I love the compact size and simplicity.
+
+SUMMARY: Python program that calculates your GPA. It takes in the amount of credit hours you have taken and the scores you have received in those classes. 
+
+I have seen many people not know how to calculate their GPA and this is a perfect solution. It gives user hints as to finding how much a class is worth.
+This was designed with UT grading system in mind, should work with other colleges as well but cannot confirm with all as different Universities weigh differently.
